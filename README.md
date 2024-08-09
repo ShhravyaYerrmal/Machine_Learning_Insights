@@ -1,6 +1,4 @@
-# Machine_Learning_Insights
-
-###8 Feature Engineering Techniques:
+# 8 Feature Engineering Techniques:
 
 Feature Engineering is really important for improving the performance of your machine-learning models. It is necessary to decrypt how humans understand the data. Humans tend to find complex patterns or relations and recognize them, even when they don't exist.
 
